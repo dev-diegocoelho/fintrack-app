@@ -1,0 +1,1 @@
+export const inputClass = 'w-full p-4 rounded-2xl bg-[#1f1f1f] border-zinc-800 outline-none placeholder:text-zinc-600'
