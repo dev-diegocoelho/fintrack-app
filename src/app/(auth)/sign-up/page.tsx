@@ -1,4 +1,4 @@
-import { AuthLayout } from "../_components/auth-layout"
+import { AuthLayout } from "../auth-layout"
 import ArrowIcon from '../../../assets/arrow-icon.png'
 import Image from 'next/image'
 import { inputClass } from "../_styles/input"
